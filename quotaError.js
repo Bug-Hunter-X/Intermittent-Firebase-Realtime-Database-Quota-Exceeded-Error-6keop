@@ -1,0 +1,1 @@
+The Firebase Realtime Database sometimes throws a "Quota exceeded" error even when the project's usage is well below the free tier limits. This often happens intermittently and without clear patterns, making it hard to debug.
